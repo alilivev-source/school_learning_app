@@ -1,0 +1,61 @@
+# Flutter
+.Dart_tool/
+.build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/.idea/
+android/build/
+android/app/build/
+android/app/.gradle/
+
+# iOS
+ios/.symlinks/
+ios/Pods/
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Mac
+.DS_Store
+
+# Web
+web/
+
+# Coverage
+coverage/
+
+# Miscellaneous
+*.log
+*.lock
+*.pid
+*.pid.lock
+*.sqlite
+*.sqlite-journal
+.env
+*.swp
+*.swo
+*~
+
+# Exceptions
+!/.gitignore
+!/lib/
+!/assets/
+!/pubspec.yaml
