@@ -1,0 +1,508 @@
+{
+  "letters": [
+    {
+      "id": "alif",
+      "char": "أ",
+      "name": "ألف",
+      "nameEn": "Alif",
+      "harakat": {
+        "fatha": "أَ",
+        "damma": "أُ",
+        "kasra": "إِ",
+        "sukoon": "اْ"
+      },
+      "emoji": "🦁",
+      "exampleWord": "أسد",
+      "exampleWordEn": "Lion",
+      "level": 1,
+      "color": "#FF6B6B",
+      "isArabic": true
+    },
+    {
+      "id": "baa",
+      "char": "ب",
+      "name": "باء",
+      "nameEn": "Baa",
+      "harakat": {
+        "fatha": "بَ",
+        "damma": "بُ",
+        "kasra": "بِ",
+        "sukoon": "بْ"
+      },
+      "emoji": "🦆",
+      "exampleWord": "بطة",
+      "exampleWordEn": "Duck",
+      "level": 1,
+      "color": "#4D96FF",
+      "isArabic": true
+    },
+    {
+      "id": "taa",
+      "char": "ت",
+      "name": "تاء",
+      "nameEn": "Taa",
+      "harakat": {
+        "fatha": "تَ",
+        "damma": "تُ",
+        "kasra": "تِ",
+        "sukoon": "تْ"
+      },
+      "emoji": "🍎",
+      "exampleWord": "تفاحة",
+      "exampleWordEn": "Apple",
+      "level": 1,
+      "color": "#6BCB77",
+      "isArabic": true
+    },
+    {
+      "id": "thaa",
+      "char": "ث",
+      "name": "ثاء",
+      "nameEn": "Thaa",
+      "harakat": {
+        "fatha": "ثَ",
+        "damma": "ثُ",
+        "kasra": "ثِ",
+        "sukoon": "ثْ"
+      },
+      "emoji": "🐍",
+      "exampleWord": "ثعبان",
+      "exampleWordEn": "Snake",
+      "level": 2,
+      "color": "#FF8E53",
+      "isArabic": true
+    },
+    {
+      "id": "jeem",
+      "char": "ج",
+      "name": "جيم",
+      "nameEn": "Jeem",
+      "harakat": {
+        "fatha": "جَ",
+        "damma": "جُ",
+        "kasra": "جِ",
+        "sukoon": "جْ"
+      },
+      "emoji": "🐫",
+      "exampleWord": "جمل",
+      "exampleWordEn": "Camel",
+      "level": 2,
+      "color": "#FFD93D",
+      "isArabic": true
+    },
+    {
+      "id": "haa",
+      "char": "ح",
+      "name": "حاء",
+      "nameEn": "Haa",
+      "harakat": {
+        "fatha": "حَ",
+        "damma": "حُ",
+        "kasra": "حِ",
+        "sukoon": "حْ"
+      },
+      "emoji": "🐴",
+      "exampleWord": "حصان",
+      "exampleWordEn": "Horse",
+      "level": 2,
+      "color": "#9B59B6",
+      "isArabic": true
+    },
+    {
+      "id": "khaa",
+      "char": "خ",
+      "name": "خاء",
+      "nameEn": "Khaa",
+      "harakat": {
+        "fatha": "خَ",
+        "damma": "خُ",
+        "kasra": "خِ",
+        "sukoon": "خْ"
+      },
+      "emoji": "🐑",
+      "exampleWord": "خروف",
+      "exampleWordEn": "Sheep",
+      "level": 2,
+      "color": "#00D2FF",
+      "isArabic": true
+    },
+    {
+      "id": "dal",
+      "char": "د",
+      "name": "دال",
+      "nameEn": "Dal",
+      "harakat": {
+        "fatha": "دَ",
+        "damma": "دُ",
+        "kasra": "دِ",
+        "sukoon": "دْ"
+      },
+      "emoji": "🐔",
+      "exampleWord": "دجاجة",
+      "exampleWordEn": "Chicken",
+      "level": 2,
+      "color": "#F5A623",
+      "isArabic": true
+    },
+    {
+      "id": "thal",
+      "char": "ذ",
+      "name": "ذال",
+      "nameEn": "Thal",
+      "harakat": {
+        "fatha": "ذَ",
+        "damma": "ذُ",
+        "kasra": "ذِ",
+        "sukoon": "ذْ"
+      },
+      "emoji": "🐭",
+      "exampleWord": "ذئب",
+      "exampleWordEn": "Wolf",
+      "level": 2,
+      "color": "#FF6B9D",
+      "isArabic": true
+    },
+    {
+      "id": "raa",
+      "char": "ر",
+      "name": "راء",
+      "nameEn": "Raa",
+      "harakat": {
+        "fatha": "رَ",
+        "damma": "رُ",
+        "kasra": "رِ",
+        "sukoon": "رْ"
+      },
+      "emoji": "🐟",
+      "exampleWord": "سمكة",
+      "exampleWordEn": "Fish",
+      "level": 2,
+      "color": "#845EC2",
+      "isArabic": true
+    },
+    {
+      "id": "zay",
+      "char": "ز",
+      "name": "زاي",
+      "nameEn": "Zay",
+      "harakat": {
+        "fatha": "زَ",
+        "damma": "زُ",
+        "kasra": "زِ",
+        "sukoon": "زْ"
+      },
+      "emoji": "🌹",
+      "exampleWord": "زهرة",
+      "exampleWordEn": "Flower",
+      "level": 2,
+      "color": "#FFC75F",
+      "isArabic": true
+    },
+    {
+      "id": "seen",
+      "char": "س",
+      "name": "سين",
+      "nameEn": "Seen",
+      "harakat": {
+        "fatha": "سَ",
+        "damma": "سُ",
+        "kasra": "سِ",
+        "sukoon": "سْ"
+      },
+      "emoji": "🚗",
+      "exampleWord": "سيارة",
+      "exampleWordEn": "Car",
+      "level": 3,
+      "color": "#FF9671",
+      "isArabic": true
+    },
+    {
+      "id": "sheen",
+      "char": "ش",
+      "name": "شين",
+      "nameEn": "Sheen",
+      "harakat": {
+        "fatha": "شَ",
+        "damma": "شُ",
+        "kasra": "شِ",
+        "sukoon": "شْ"
+      },
+      "emoji": "🌞",
+      "exampleWord": "شمس",
+      "exampleWordEn": "Sun",
+      "level": 3,
+      "color": "#FFC3A0",
+      "isArabic": true
+    },
+    {
+      "id": "sad",
+      "char": "ص",
+      "name": "صاد",
+      "nameEn": "Sad",
+      "harakat": {
+        "fatha": "صَ",
+        "damma": "صُ",
+        "kasra": "صِ",
+        "sukoon": "صْ"
+      },
+      "emoji": "🐦",
+      "exampleWord": "عصفور",
+      "exampleWordEn": "Bird",
+      "level": 3,
+      "color": "#FF6F91",
+      "isArabic": true
+    },
+    {
+      "id": "dad",
+      "char": "ض",
+      "name": "ضاد",
+      "nameEn": "Dad",
+      "harakat": {
+        "fatha": "ضَ",
+        "damma": "ضُ",
+        "kasra": "ضِ",
+        "sukoon": "ضْ"
+      },
+      "emoji": "🐸",
+      "exampleWord": "ضفدع",
+      "exampleWordEn": "Frog",
+      "level": 3,
+      "color": "#D65DB1",
+      "isArabic": true
+    },
+    {
+      "id": "taa2",
+      "char": "ط",
+      "name": "طاء",
+      "nameEn": "Taa",
+      "harakat": {
+        "fatha": "طَ",
+        "damma": "طُ",
+        "kasra": "طِ",
+        "sukoon": "طْ"
+      },
+      "emoji": "🍉",
+      "exampleWord": "بطيخ",
+      "exampleWordEn": "Watermelon",
+      "level": 3,
+      "color": "#FFB7B2",
+      "isArabic": true
+    },
+    {
+      "id": "thaa2",
+      "char": "ظ",
+      "name": "ظاء",
+      "nameEn": "Thaa",
+      "harakat": {
+        "fatha": "ظَ",
+        "damma": "ظُ",
+        "kasra": "ظِ",
+        "sukoon": "ظْ"
+      },
+      "emoji": "🍊",
+      "exampleWord": "برتقال",
+      "exampleWordEn": "Orange",
+      "level": 3,
+      "color": "#00C9A7",
+      "isArabic": true
+    },
+    {
+      "id": "ain",
+      "char": "ع",
+      "name": "عين",
+      "nameEn": "Ain",
+      "harakat": {
+        "fatha": "عَ",
+        "damma": "عُ",
+        "kasra": "عِ",
+        "sukoon": "عْ"
+      },
+      "emoji": "👁️",
+      "exampleWord": "عين",
+      "exampleWordEn": "Eye",
+      "level": 3,
+      "color": "#4A90E2",
+      "isArabic": true
+    },
+    {
+      "id": "ghain",
+      "char": "غ",
+      "name": "غين",
+      "nameEn": "Ghain",
+      "harakat": {
+        "fatha": "غَ",
+        "damma": "غُ",
+        "kasra": "غِ",
+        "sukoon": "غْ"
+      },
+      "emoji": "🌳",
+      "exampleWord": "شجرة",
+      "exampleWordEn": "Tree",
+      "level": 3,
+      "color": "#50E3C2",
+      "isArabic": true
+    },
+    {
+      "id": "fa",
+      "char": "ف",
+      "name": "فاء",
+      "nameEn": "Fa",
+      "harakat": {
+        "fatha": "فَ",
+        "damma": "فُ",
+        "kasra": "فِ",
+        "sukoon": "فْ"
+      },
+      "emoji": "🐘",
+      "exampleWord": "فيل",
+      "exampleWordEn": "Elephant",
+      "level": 4,
+      "color": "#F5A623",
+      "isArabic": true
+    },
+    {
+      "id": "qaf",
+      "char": "ق",
+      "name": "قاف",
+      "nameEn": "Qaf",
+      "harakat": {
+        "fatha": "قَ",
+        "damma": "قُ",
+        "kasra": "قِ",
+        "sukoon": "قْ"
+      },
+      "emoji": "🌙",
+      "exampleWord": "قمر",
+      "exampleWordEn": "Moon",
+      "level": 4,
+      "color": "#B8E986",
+      "isArabic": true
+    },
+    {
+      "id": "kaf",
+      "char": "ك",
+      "name": "كاف",
+      "nameEn": "Kaf",
+      "harakat": {
+        "fatha": "كَ",
+        "damma": "كُ",
+        "kasra": "كِ",
+        "sukoon": "كْ"
+      },
+      "emoji": "📚",
+      "exampleWord": "كتاب",
+      "exampleWordEn": "Book",
+      "level": 4,
+      "color": "#D0021B",
+      "isArabic": true
+    },
+    {
+      "id": "lam",
+      "char": "ل",
+      "name": "لام",
+      "nameEn": "Lam",
+      "harakat": {
+        "fatha": "لَ",
+        "damma": "لُ",
+        "kasra": "لِ",
+        "sukoon": "لْ"
+      },
+      "emoji": "🍋",
+      "exampleWord": "ليمون",
+      "exampleWordEn": "Lemon",
+      "level": 4,
+      "color": "#8B572A",
+      "isArabic": true
+    },
+    {
+      "id": "meem",
+      "char": "م",
+      "name": "ميم",
+      "nameEn": "Meem",
+      "harakat": {
+        "fatha": "مَ",
+        "damma": "مُ",
+        "kasra": "مِ",
+        "sukoon": "مْ"
+      },
+      "emoji": "🏠",
+      "exampleWord": "بيت",
+      "exampleWordEn": "House",
+      "level": 4,
+      "color": "#7ED321",
+      "isArabic": true
+    },
+    {
+      "id": "noon",
+      "char": "ن",
+      "name": "نون",
+      "nameEn": "Noon",
+      "harakat": {
+        "fatha": "نَ",
+        "damma": "نُ",
+        "kasra": "نِ",
+        "sukoon": "نْ"
+      },
+      "emoji": "⭐",
+      "exampleWord": "نجم",
+      "exampleWordEn": "Star",
+      "level": 4,
+      "color": "#4A4A4A",
+      "isArabic": true
+    },
+    {
+      "id": "haa2",
+      "char": "ه",
+      "name": "هاء",
+      "nameEn": "Haa",
+      "harakat": {
+        "fatha": "هَ",
+        "damma": "هُ",
+        "kasra": "هِ",
+        "sukoon": "هْ"
+      },
+      "emoji": "🎁",
+      "exampleWord": "هدية",
+      "exampleWordEn": "Gift",
+      "level": 4,
+      "color": "#FFE0B2",
+      "isArabic": true
+    },
+    {
+      "id": "waw",
+      "char": "و",
+      "name": "واو",
+      "nameEn": "Waw",
+      "harakat": {
+        "fatha": "وَ",
+        "damma": "وُ",
+        "kasra": "وِ",
+        "sukoon": "وْ"
+      },
+      "emoji": "🌹",
+      "exampleWord": "وردة",
+      "exampleWordEn": "Rose",
+      "level": 5,
+      "color": "#B5B5B5",
+      "isArabic": true
+    },
+    {
+      "id": "yaa",
+      "char": "ي",
+      "name": "ياء",
+      "nameEn": "Yaa",
+      "harakat": {
+        "fatha": "يَ",
+        "damma": "يُ",
+        "kasra": "يِ",
+        "sukoon": "يْ"
+      },
+      "emoji": "🍇",
+      "exampleWord": "عنب",
+      "exampleWordEn": "Grapes",
+      "level": 5,
+      "color": "#FFF3E0",
+      "isArabic": true
+    }
+  ]
+}
