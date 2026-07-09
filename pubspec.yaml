@@ -1,0 +1,33 @@
+name: mystic_dungeon
+description: لعبة مغامرات ومحارب يخوض 100 مرحلة داخل متاهات مليئة بالوحوش
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.35.0
+  flame_audio: ^2.12.1
+  shared_preferences: ^2.3.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sprites/player/
+    - assets/sprites/enemies/
+    - assets/sprites/weapons/
+    - assets/sprites/projectiles/
+    - assets/sprites/effects/
+    - assets/sprites/obstacles/
+    - assets/sprites/items/
+    - assets/sprites/ui/
+    - assets/backgrounds/
+    - assets/sounds/
