@@ -1,0 +1,420 @@
+{
+  "letters": [
+    {
+      "id": "a",
+      "char": "A",
+      "name": "A",
+      "nameEn": "A",
+      "harakat": {
+        "sound": "/æ/",
+        "word": "Apple"
+      },
+      "emoji": "🍎",
+      "exampleWord": "Apple",
+      "exampleWordEn": "Apple",
+      "level": 3,
+      "color": "#FF6B6B",
+      "isArabic": false
+    },
+    {
+      "id": "b",
+      "char": "B",
+      "name": "B",
+      "nameEn": "B",
+      "harakat": {
+        "sound": "/b/",
+        "word": "Ball"
+      },
+      "emoji": "⚽",
+      "exampleWord": "Ball",
+      "exampleWordEn": "Ball",
+      "level": 3,
+      "color": "#4D96FF",
+      "isArabic": false
+    },
+    {
+      "id": "c",
+      "char": "C",
+      "name": "C",
+      "nameEn": "C",
+      "harakat": {
+        "sound": "/k/",
+        "word": "Cat"
+      },
+      "emoji": "🐱",
+      "exampleWord": "Cat",
+      "exampleWordEn": "Cat",
+      "level": 3,
+      "color": "#6BCB77",
+      "isArabic": false
+    },
+    {
+      "id": "d",
+      "char": "D",
+      "name": "D",
+      "nameEn": "D",
+      "harakat": {
+        "sound": "/d/",
+        "word": "Dog"
+      },
+      "emoji": "🐶",
+      "exampleWord": "Dog",
+      "exampleWordEn": "Dog",
+      "level": 3,
+      "color": "#FF8E53",
+      "isArabic": false
+    },
+    {
+      "id": "e",
+      "char": "E",
+      "name": "E",
+      "nameEn": "E",
+      "harakat": {
+        "sound": "/e/",
+        "word": "Elephant"
+      },
+      "emoji": "🐘",
+      "exampleWord": "Elephant",
+      "exampleWordEn": "Elephant",
+      "level": 3,
+      "color": "#FFD93D",
+      "isArabic": false
+    },
+    {
+      "id": "f",
+      "char": "F",
+      "name": "F",
+      "nameEn": "F",
+      "harakat": {
+        "sound": "/f/",
+        "word": "Fish"
+      },
+      "emoji": "🐟",
+      "exampleWord": "Fish",
+      "exampleWordEn": "Fish",
+      "level": 3,
+      "color": "#9B59B6",
+      "isArabic": false
+    },
+    {
+      "id": "g",
+      "char": "G",
+      "name": "G",
+      "nameEn": "G",
+      "harakat": {
+        "sound": "/g/",
+        "word": "Grapes"
+      },
+      "emoji": "🍇",
+      "exampleWord": "Grapes",
+      "exampleWordEn": "Grapes",
+      "level": 3,
+      "color": "#00D2FF",
+      "isArabic": false
+    },
+    {
+      "id": "h",
+      "char": "H",
+      "name": "H",
+      "nameEn": "H",
+      "harakat": {
+        "sound": "/h/",
+        "word": "Horse"
+      },
+      "emoji": "🐴",
+      "exampleWord": "Horse",
+      "exampleWordEn": "Horse",
+      "level": 3,
+      "color": "#F5A623",
+      "isArabic": false
+    },
+    {
+      "id": "i",
+      "char": "I",
+      "name": "I",
+      "nameEn": "I",
+      "harakat": {
+        "sound": "/ɪ/",
+        "word": "Insect"
+      },
+      "emoji": "🐜",
+      "exampleWord": "Insect",
+      "exampleWordEn": "Insect",
+      "level": 3,
+      "color": "#FF6B9D",
+      "isArabic": false
+    },
+    {
+      "id": "j",
+      "char": "J",
+      "name": "J",
+      "nameEn": "J",
+      "harakat": {
+        "sound": "/dʒ/",
+        "word": "Juice"
+      },
+      "emoji": "🧃",
+      "exampleWord": "Juice",
+      "exampleWordEn": "Juice",
+      "level": 3,
+      "color": "#845EC2",
+      "isArabic": false
+    },
+    {
+      "id": "k",
+      "char": "K",
+      "name": "K",
+      "nameEn": "K",
+      "harakat": {
+        "sound": "/k/",
+        "word": "Kite"
+      },
+      "emoji": "🪁",
+      "exampleWord": "Kite",
+      "exampleWordEn": "Kite",
+      "level": 3,
+      "color": "#FFC75F",
+      "isArabic": false
+    },
+    {
+      "id": "l",
+      "char": "L",
+      "name": "L",
+      "nameEn": "L",
+      "harakat": {
+        "sound": "/l/",
+        "word": "Lion"
+      },
+      "emoji": "🦁",
+      "exampleWord": "Lion",
+      "exampleWordEn": "Lion",
+      "level": 3,
+      "color": "#FF9671",
+      "isArabic": false
+    },
+    {
+      "id": "m",
+      "char": "M",
+      "name": "M",
+      "nameEn": "M",
+      "harakat": {
+        "sound": "/m/",
+        "word": "Monkey"
+      },
+      "emoji": "🐵",
+      "exampleWord": "Monkey",
+      "exampleWordEn": "Monkey",
+      "level": 3,
+      "color": "#FFC3A0",
+      "isArabic": false
+    },
+    {
+      "id": "n",
+      "char": "N",
+      "name": "N",
+      "nameEn": "N",
+      "harakat": {
+        "sound": "/n/",
+        "word": "Nest"
+      },
+      "emoji": "🪹",
+      "exampleWord": "Nest",
+      "exampleWordEn": "Nest",
+      "level": 3,
+      "color": "#FF6F91",
+      "isArabic": false
+    },
+    {
+      "id": "o",
+      "char": "O",
+      "name": "O",
+      "nameEn": "O",
+      "harakat": {
+        "sound": "/ɒ/",
+        "word": "Orange"
+      },
+      "emoji": "🍊",
+      "exampleWord": "Orange",
+      "exampleWordEn": "Orange",
+      "level": 3,
+      "color": "#D65DB1",
+      "isArabic": false
+    },
+    {
+      "id": "p",
+      "char": "P",
+      "name": "P",
+      "nameEn": "P",
+      "harakat": {
+        "sound": "/p/",
+        "word": "Penguin"
+      },
+      "emoji": "🐧",
+      "exampleWord": "Penguin",
+      "exampleWordEn": "Penguin",
+      "level": 3,
+      "color": "#FFB7B2",
+      "isArabic": false
+    },
+    {
+      "id": "q",
+      "char": "Q",
+      "name": "Q",
+      "nameEn": "Q",
+      "harakat": {
+        "sound": "/kw/",
+        "word": "Queen"
+      },
+      "emoji": "👑",
+      "exampleWord": "Queen",
+      "exampleWordEn": "Queen",
+      "level": 4,
+      "color": "#00C9A7",
+      "isArabic": false
+    },
+    {
+      "id": "r",
+      "char": "R",
+      "name": "R",
+      "nameEn": "R",
+      "harakat": {
+        "sound": "/r/",
+        "word": "Rabbit"
+      },
+      "emoji": "🐰",
+      "exampleWord": "Rabbit",
+      "exampleWordEn": "Rabbit",
+      "level": 3,
+      "color": "#4A90E2",
+      "isArabic": false
+    },
+    {
+      "id": "s",
+      "char": "S",
+      "name": "S",
+      "nameEn": "S",
+      "harakat": {
+        "sound": "/s/",
+        "word": "Star"
+      },
+      "emoji": "⭐",
+      "exampleWord": "Star",
+      "exampleWordEn": "Star",
+      "level": 3,
+      "color": "#50E3C2",
+      "isArabic": false
+    },
+    {
+      "id": "t",
+      "char": "T",
+      "name": "T",
+      "nameEn": "T",
+      "harakat": {
+        "sound": "/t/",
+        "word": "Tree"
+      },
+      "emoji": "🌳",
+      "exampleWord": "Tree",
+      "exampleWordEn": "Tree",
+      "level": 3,
+      "color": "#F5A623",
+      "isArabic": false
+    },
+    {
+      "id": "u",
+      "char": "U",
+      "name": "U",
+      "nameEn": "U",
+      "harakat": {
+        "sound": "/ʌ/",
+        "word": "Umbrella"
+      },
+      "emoji": "☂️",
+      "exampleWord": "Umbrella",
+      "exampleWordEn": "Umbrella",
+      "level": 3,
+      "color": "#B8E986",
+      "isArabic": false
+    },
+    {
+      "id": "v",
+      "char": "V",
+      "name": "V",
+      "nameEn": "V",
+      "harakat": {
+        "sound": "/v/",
+        "word": "Violin"
+      },
+      "emoji": "🎻",
+      "exampleWord": "Violin",
+      "exampleWordEn": "Violin",
+      "level": 4,
+      "color": "#D0021B",
+      "isArabic": false
+    },
+    {
+      "id": "w",
+      "char": "W",
+      "name": "W",
+      "nameEn": "W",
+      "harakat": {
+        "sound": "/w/",
+        "word": "Watermelon"
+      },
+      "emoji": "🍉",
+      "exampleWord": "Watermelon",
+      "exampleWordEn": "Watermelon",
+      "level": 4,
+      "color": "#8B572A",
+      "isArabic": false
+    },
+    {
+      "id": "x",
+      "char": "X",
+      "name": "X",
+      "nameEn": "X",
+      "harakat": {
+        "sound": "/ks/",
+        "word": "Xylophone"
+      },
+      "emoji": "🎵",
+      "exampleWord": "Xylophone",
+      "exampleWordEn": "Xylophone",
+      "level": 4,
+      "color": "#7ED321",
+      "isArabic": false
+    },
+    {
+      "id": "y",
+      "char": "Y",
+      "name": "Y",
+      "nameEn": "Y",
+      "harakat": {
+        "sound": "/j/",
+        "word": "Yogurt"
+      },
+      "emoji": "🥛",
+      "exampleWord": "Yogurt",
+      "exampleWordEn": "Yogurt",
+      "level": 4,
+      "color": "#4A4A4A",
+      "isArabic": false
+    },
+    {
+      "id": "z",
+      "char": "Z",
+      "name": "Z",
+      "nameEn": "Z",
+      "harakat": {
+        "sound": "/z/",
+        "word": "Zebra"
+      },
+      "emoji": "🦓",
+      "exampleWord": "Zebra",
+      "exampleWordEn": "Zebra",
+      "level": 4,
+      "color": "#FFE0B2",
+      "isArabic": false
+    }
+  ]
+}

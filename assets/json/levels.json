@@ -1,0 +1,94 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "بذرة",
+      "nameEn": "Seed",
+      "emoji": "🌱",
+      "color": "#4CAF50",
+      "ageRange": "3-4",
+      "lettersCount": 10,
+      "wordsCount": 20,
+      "storiesCount": 5,
+      "games": ["matching", "memory"],
+      "unlockStars": null,
+      "unlockLevel": null,
+      "rewards": {
+        "stars": 50,
+        "sticker": "🌟"
+      }
+    },
+    {
+      "id": 2,
+      "name": "برعم",
+      "nameEn": "Sprout",
+      "emoji": "🌿",
+      "color": "#2196F3",
+      "ageRange": "4-5",
+      "lettersCount": 18,
+      "wordsCount": 30,
+      "storiesCount": 8,
+      "games": ["matching", "memory", "word_builder"],
+      "unlockStars": 30,
+      "unlockLevel": 1,
+      "rewards": {
+        "stars": 75,
+        "sticker": "🎖️"
+      }
+    },
+    {
+      "id": 3,
+      "name": "شجرة",
+      "nameEn": "Tree",
+      "emoji": "🌳",
+      "color": "#FF9800",
+      "ageRange": "5-6",
+      "lettersCount": 28,
+      "wordsCount": 50,
+      "storiesCount": 12,
+      "games": ["matching", "memory", "word_builder", "letter_tracing"],
+      "unlockStars": 60,
+      "unlockLevel": 2,
+      "rewards": {
+        "stars": 100,
+        "sticker": "🏆"
+      }
+    },
+    {
+      "id": 4,
+      "name": "قارئ",
+      "nameEn": "Reader",
+      "emoji": "📚",
+      "color": "#9C27B0",
+      "ageRange": "6-8",
+      "lettersCount": 28,
+      "wordsCount": 80,
+      "storiesCount": 15,
+      "games": ["matching", "memory", "word_builder", "letter_tracing", "quiz"],
+      "unlockStars": 100,
+      "unlockLevel": 3,
+      "rewards": {
+        "stars": 150,
+        "sticker": "👑"
+      }
+    },
+    {
+      "id": 5,
+      "name": "متمكن",
+      "nameEn": "Master",
+      "emoji": "🏅",
+      "color": "#F44336",
+      "ageRange": "8-10",
+      "lettersCount": 28,
+      "wordsCount": 100,
+      "storiesCount": 20,
+      "games": ["matching", "memory", "word_builder", "letter_tracing", "quiz", "racing"],
+      "unlockStars": 150,
+      "unlockLevel": 4,
+      "rewards": {
+        "stars": 200,
+        "sticker": "🏅"
+      }
+    }
+  ]
+}

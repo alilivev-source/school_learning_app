@@ -1,0 +1,131 @@
+{
+  "stories": [
+    {
+      "id": "s001",
+      "title": "الأرنب والسلحفاة",
+      "titleEn": "The Hare and the Tortoise",
+      "emoji": "🐰",
+      "level": 1,
+      "pages": [
+        "كان يا مكان أرنب سريع جداً، وكانت سلحفاة بطيئة جداً.",
+        "تحدى الأرنب السلحفاة في سباق. ضحكت الحيوانات من السلحفاة.",
+        "انطلق الأرنب بسرعة، لكنه شعر بالنعاس ونام تحت الشجرة.",
+        "استمرت السلحفاة في المشي ببطء ولكن بثبات، ووصلت إلى خط النهاية أولاً.",
+        "تعلم الأرنب أن البطيء الثابت يفوق السريع المتراخي."
+      ],
+      "images": ["rabbit1", "rabbit2", "rabbit3", "rabbit4", "rabbit5"],
+      "keyWords": ["أرنب", "سلحفاة", "سباق", "سريع", "بطيء"],
+      "keyWordsEn": ["Rabbit", "Tortoise", "Race", "Fast", "Slow"],
+      "questions": [
+        {
+          "id": "q1",
+          "question": "من كان سريعاً في القصة؟",
+          "questionEn": "Who was fast in the story?",
+          "options": ["السلحفاة", "الأرنب", "الثعلب"],
+          "optionsEn": ["Tortoise", "Rabbit", "Fox"],
+          "correctIndex": 1
+        },
+        {
+          "id": "q2",
+          "question": "ماذا فعل الأرنب أثناء السباق؟",
+          "questionEn": "What did the rabbit do during the race?",
+          "options": ["ركض بسرعة", "نام", "أكل تفاحة"],
+          "optionsEn": ["Ran fast", "Slept", "Ate an apple"],
+          "correctIndex": 1
+        },
+        {
+          "id": "q3",
+          "question": "من فاز في السباق؟",
+          "questionEn": "Who won the race?",
+          "options": ["الأرنب", "السلحفاة", "الكلب"],
+          "optionsEn": ["Rabbit", "Tortoise", "Dog"],
+          "correctIndex": 1
+        }
+      ],
+      "moral": "البطيء الثابت يفوق السريع المتراخي",
+      "moralEn": "Slow and steady wins the race"
+    },
+    {
+      "id": "s002",
+      "title": "الأسد والفأر",
+      "titleEn": "The Lion and the Mouse",
+      "emoji": "🦁",
+      "level": 2,
+      "pages": [
+        "كان أسد نائماً تحت شجرة كبيرة، جاء فأر صغير وبدأ يلعب على وجهه.",
+        "استيقظ الأسد غاضباً وأمسك بالفأر، وكان على وشك أكله.",
+        "توسل الفأر للأسد: 'أرجوك لا تأكلني، سأرد لك الجميل يوماً ما'. ضحك الأسد لكنه أطلقه.",
+        "في اليوم التالي، وقع الأسد في شبكة صيادين. صرخ الأسد طلباً للمساعدة.",
+        "سمع الفأر صراخ الأسد، فأسرع وبدأ يقضم الحبال حتى حرر الأسد من الشبكة.",
+        "شكر الأسد الفأر وقال: 'لقد تعلمت أن الصغير قد يساعد الكبير'. ومنذ ذلك اليوم أصبحا صديقين."
+      ],
+      "images": ["lion1", "lion2", "lion3", "lion4", "lion5", "lion6"],
+      "keyWords": ["أسد", "فأر", "شبكة", "حرر", "صديق"],
+      "keyWordsEn": ["Lion", "Mouse", "Net", "Free", "Friend"],
+      "questions": [
+        {
+          "id": "q1",
+          "question": "ماذا فعل الفأر بالأسد أولاً؟",
+          "questionEn": "What did the mouse first do to the lion?",
+          "options": ["أكله", "لعب على وجهه", "جلس معه"],
+          "optionsEn": ["Ate him", "Played on his face", "Sat with him"],
+          "correctIndex": 1
+        },
+        {
+          "id": "q2",
+          "question": "كيف ساعد الفأر الأسد؟",
+          "questionEn": "How did the mouse help the lion?",
+          "options": ["أحضر له طعاماً", "قطع الشبكة", "ناداه"],
+          "optionsEn": ["Brought him food", "Cut the net", "Called him"],
+          "correctIndex": 1
+        },
+        {
+          "id": "q3",
+          "question": "ماذا تعلم الأسد من الفأر؟",
+          "questionEn": "What did the lion learn from the mouse?",
+          "options": ["أن الكبير قوي", "أن الصغير قد يساعد الكبير", "أن الفأر جبان"],
+          "optionsEn": ["The big is strong", "The small can help the big", "The mouse is a coward"],
+          "correctIndex": 1
+        }
+      ],
+      "moral": "الصغير قد يساعد الكبير، ولا تستهن بأحد",
+      "moralEn": "The small may help the big, never underestimate anyone"
+    },
+    {
+      "id": "s003",
+      "title": "الثعلب والعنب",
+      "titleEn": "The Fox and the Grapes",
+      "emoji": "🦊",
+      "level": 2,
+      "pages": [
+        "في يوم حار، كان ثعلب جائعاً يبحث عن طعام.",
+        "رأى الثعلب عناقيد عنب ناضجة معلقة عالياً على كرمة.",
+        "قفز الثعلب مراراً محاولاً الوصول إلى العنب لكنه لم يستطع.",
+        "تعب الثعلب وقال: 'هذا العنب حامض، لا أريده'. ثم مشى بعيداً."
+      ],
+      "images": ["fox1", "fox2", "fox3", "fox4"],
+      "keyWords": ["ثعلب", "عنب", "جائع", "عالٍ", "حامض"],
+      "keyWordsEn": ["Fox", "Grapes", "Hungry", "High", "Sour"],
+      "questions": [
+        {
+          "id": "q1",
+          "question": "ماذا كان الثعلب يبحث عنه؟",
+          "questionEn": "What was the fox looking for?",
+          "options": ["ماء", "طعام", "صديق"],
+          "optionsEn": ["Water", "Food", "Friend"],
+          "correctIndex": 1
+        },
+        {
+          "id": "q2",
+          "question": "لماذا لم يأكل الثعلب العنب؟",
+          "questionEn": "Why didn't the fox eat the grapes?",
+          "options": ["كان حامضاً", "كان عالياً جداً", "لم يكن جائعاً"],
+          "optionsEn": ["They were sour", "They were too high", "He wasn't hungry"],
+          "correctIndex": 0
+        }
+      ],
+      "moral": "إذا لم تستطع تحقيق شيء، لا تقل أنه مستحيل",
+      "moralEn": "If you can't achieve something, don't say it's impossible"
+    }
+  ]
+}
